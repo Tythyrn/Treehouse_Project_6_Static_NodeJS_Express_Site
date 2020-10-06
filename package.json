@@ -1,0 +1,23 @@
+{
+  "name": "treehouse_project_6_static_nodejs_express_site",
+  "version": "0.0.1",
+  "description": "NodeJS and Express Portfolio site for Treehouse Project 6",
+  "main": "nodemon app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tythyrn/Treehouse_Project_6_Static_NodeJS_Express_Site.git"
+  },
+  "author": "Kendall Rundquist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tythyrn/Treehouse_Project_6_Static_NodeJS_Express_Site/issues"
+  },
+  "homepage": "https://github.com/Tythyrn/Treehouse_Project_6_Static_NodeJS_Express_Site#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
