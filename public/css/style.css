@@ -1,6 +1,10 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+  background-color:rgb(215, 244, 255);
 }
 
   h5{
@@ -147,4 +151,12 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+a .thumbnail {
+  transition: 0.3s;
+}
+
+a .thumbnail:hover {
+  opacity: .7;
 }

@@ -29,12 +29,15 @@ router.use((req, res, next) => {
 });
 
 router.use((err, req, res, next) => {
-    res.locals.error = err;
-    res.locals.message = err.message;
 
-    console.log(res.locals.error.status);
-    console.log(res.locals.message);
-    next();
+    console.log(err.status);
+    console.log(err.message);
+
+    if (err.status === 404){
+        res.render('page-not-found', { err });
+    } else {
+        res.render('error', { err });
+    }
 });
 
 module.exports = router;

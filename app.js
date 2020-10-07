@@ -1,10 +1,11 @@
 const express = require('express');
+const path = require('path');
 
 //sets up the express app
 const app = express();
 
 //Setting up the static server
-app.use('/static', express.static('public'));
+app.use('/static', express.static(path.join(__dirname, 'public')))
 
 //setting the view engine to use pug templates
 app.set('view engine', 'pug');
