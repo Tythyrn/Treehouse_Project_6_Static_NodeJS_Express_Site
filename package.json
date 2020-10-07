@@ -2,7 +2,7 @@
   "name": "treehouse_project_6_static_nodejs_express_site",
   "version": "0.0.1",
   "description": "NodeJS and Express Portfolio site for Treehouse Project 6",
-  "main": "nodemon app.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

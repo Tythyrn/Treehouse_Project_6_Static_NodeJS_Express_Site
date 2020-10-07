@@ -1,69 +1,71 @@
 {
-    "projects": [
-        {
-            "id": 0,
-            "project_name": "Random Quote Generator",
-            "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://tythyrn.github.io/Treehouse_Project_1_Random_Quote_Generator/",
-            "github_link": "https://github.com/Tythyrn/Treehouse_Project_1_Random_Quote_Generator",
-            "image_urls": [
-                "./img/project_1/P1_Main.png",
-                "./img/project_1/P1_Supplemental_1.png",
-                "./img/project_1/P1_Supplemental_2.png",
-                "./img/project_1/P1_Supplemental_2.png"
-            ]
-        },
-        {
-            "id": 1,
-            "project_name": "Data Pagination and Filtering",
-            "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://tythyrn.github.io/Treehouse_Project_2_Data_Pagination_and_Filtering/",
-            "github_link": "https://github.com/Tythyrn/Treehouse_Project_2_Data_Pagination_and_Filtering",
-            "image_urls": [
-                "./img/project_2/P2_Main.png",
-                "./img/project_2/P2_Supplemental_1.png",
-                "./img/project_2/P2_Supplemental_2.png",
-                "./img/project_2/P2_Supplemental_2.png"
-            ]
-        },
-        {
-            "id": 2,
-            "project_name": "Interactive Form",
-            "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://tythyrn.github.io/Treehouse_Project_3_Interactive_Form/",
-            "github_link": "https://github.com/Tythyrn/Treehouse_Project_3_Interactive_Form",
-            "image_urls": [
-                "./img/project_3/P3_Main.png",
-                "./img/project_3/P3_Supplemental_1.png",
-                "./img/project_3/P3_Supplemental_2.png",
-                "./img/project_3/P3_Supplemental_2.png"
-            ]
-        },
-        {
-            "id": 3,
-            "project_name": "OOP Game Show App",
-            "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://tythyrn.github.io/Treehouse_Project_4_OOP_Game_Show_App/",
-            "github_link": "https://github.com/Tythyrn/Treehouse_Project_4_OOP_Game_Show_App",
-            "image_urls": [
-                "./img/project_4/P4_Main.png",
-                "./img/project_4/P4_Supplemental_1.png",
-                "./img/project_4/P4_Supplemental_2.png",
-                "./img/project_4/P4_Supplemental_2.png"
-            ]
-        },
-        {
-            "id": 4,
-            "project_name": "Public API Requests",
-            "technologies": ["HTML", "CSS", "JavaScript", "Random User API"],
-            "live_link": "https://tythyrn.github.io/Treehouse_Project_5_Public_API_Requests/",
-            "github_link": "https://github.com/Tythyrn/Treehouse_Project_5_Public_API_Requests",
-            "image_urls": [
-                "./img/project_5/P5_Main.png",
-                "./img/project_5/P5_Supplemental_1.png",
-                "./img/project_5/P5_Supplemental_2.png",
-                "./img/project_5/P5_Supplemental_2.png"
-            ]
-        }
-    ]
+    "data": {
+        "projects": [
+            {
+                "id": 0,
+                "project_name": "Random Quote Generator",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://tythyrn.github.io/Treehouse_Project_1_Random_Quote_Generator/",
+                "github_link": "https://github.com/Tythyrn/Treehouse_Project_1_Random_Quote_Generator",
+                "image_urls": [
+                    "./img/project_1/P1_Main.png",
+                    "./img/project_1/P1_Supplemental_1.png",
+                    "./img/project_1/P1_Supplemental_2.png",
+                    "./img/project_1/P1_Supplemental_2.png"
+                ]
+            },
+            {
+                "id": 1,
+                "project_name": "Data Pagination and Filtering",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://tythyrn.github.io/Treehouse_Project_2_Data_Pagination_and_Filtering/",
+                "github_link": "https://github.com/Tythyrn/Treehouse_Project_2_Data_Pagination_and_Filtering",
+                "image_urls": [
+                    "./img/project_2/P2_Main.png",
+                    "./img/project_2/P2_Supplemental_1.png",
+                    "./img/project_2/P2_Supplemental_2.png",
+                    "./img/project_2/P2_Supplemental_2.png"
+                ]
+            },
+            {
+                "id": 2,
+                "project_name": "Interactive Form",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://tythyrn.github.io/Treehouse_Project_3_Interactive_Form/",
+                "github_link": "https://github.com/Tythyrn/Treehouse_Project_3_Interactive_Form",
+                "image_urls": [
+                    "./img/project_3/P3_Main.png",
+                    "./img/project_3/P3_Supplemental_1.png",
+                    "./img/project_3/P3_Supplemental_2.png",
+                    "./img/project_3/P3_Supplemental_2.png"
+                ]
+            },
+            {
+                "id": 3,
+                "project_name": "OOP Game Show App",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "live_link": "https://tythyrn.github.io/Treehouse_Project_4_OOP_Game_Show_App/",
+                "github_link": "https://github.com/Tythyrn/Treehouse_Project_4_OOP_Game_Show_App",
+                "image_urls": [
+                    "./img/project_4/P4_Main.png",
+                    "./img/project_4/P4_Supplemental_1.png",
+                    "./img/project_4/P4_Supplemental_2.png",
+                    "./img/project_4/P4_Supplemental_2.png"
+                ]
+            },
+            {
+                "id": 4,
+                "project_name": "Public API Requests",
+                "technologies": ["HTML", "CSS", "JavaScript", "Random User API"],
+                "live_link": "https://tythyrn.github.io/Treehouse_Project_5_Public_API_Requests/",
+                "github_link": "https://github.com/Tythyrn/Treehouse_Project_5_Public_API_Requests",
+                "image_urls": [
+                    "./img/project_5/P5_Main.png",
+                    "./img/project_5/P5_Supplemental_1.png",
+                    "./img/project_5/P5_Supplemental_2.png",
+                    "./img/project_5/P5_Supplemental_2.png"
+                ]
+            }
+        ]
+    }
 }
